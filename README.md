@@ -1,4 +1,4 @@
-**🏏 IPL Insights: Data Analysis using Power BI**
+**IPL Insights: Data Analysis using Power BI**
 
 **Project Overview**
 
