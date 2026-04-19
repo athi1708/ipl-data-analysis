@@ -49,7 +49,9 @@ Explore dashboards using filters
  **Future Improvements**
  
 Add prediction using Machine Learning
+
 Real-time data integration
+
 Advanced analytics
 
 
