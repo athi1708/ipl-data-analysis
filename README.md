@@ -6,14 +6,14 @@ This project analyzes data from the Indian Premier League using Power BI.
 The goal is to extract meaningful insights about team performance, player statistics, and match outcomes through interactive dashboards.
 
 
-** Objectives**
+**Objectives**
  
 Analyze team performance across seasons
 Identify top players (runs, wickets)
 Study match-winning patterns
 Visualize trends using dashboards
 
-** Tools & Technologies**
+**Tools & Technologies**
  
 Microsoft Power BI Desktop
 Power Query (Data Cleaning)
