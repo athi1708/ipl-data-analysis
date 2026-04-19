@@ -28,9 +28,11 @@ Season-wise trends
 Interactive filters (slicers)
 
 
+
 **Project Files**
 IPL.pbix → Power BI dashboard file
 IPL DATA(ZIP)
+
 
 
  **How to Use**
@@ -38,10 +40,12 @@ Download the .pbix file
 Open in Power BI Desktop
 Explore dashboards using filters
 
+
  **Future Improvements**
 Add prediction using Machine Learning
 Real-time data integration
 Advanced analytics
+
 
 **Conclusion**
 This project demonstrates how data visualization can be used to analyze sports data and generate actionable insights.
