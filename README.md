@@ -40,7 +40,9 @@ IPL DATA(ZIP)
  **How to Use**
  
 Download the .pbix file
+
 Open in Power BI Desktop
+
 Explore dashboards using filters
 
 
